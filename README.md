@@ -1,6 +1,7 @@
 ### Hi there 👋 
 
 <a href="https://www.linkedin.com/in/satvika-koti-5766201a4/"><img src="https://theshepherdgroup.com/wp-content/uploads/2018/11/12.png" width=50px height=45px></a>
+<a href="mailto: satvi.koti@gmail.com"><img src="https://thefanatic.net/wp-content/uploads/2020/11/Gmail-no-molestar.jpg" width=75px height=45px></a>
 <!--
 **satvikakoti/satvikakoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
