@@ -2,9 +2,9 @@
 This is Satvika, a CSE sophomore; keen in learning trending techs of industry.
 
 <a href="https://www.linkedin.com/in/satvika-koti-5766201a4/"><img src="https://theshepherdgroup.com/wp-content/uploads/2018/11/12.png" width=50px height=45px></a>
-<a href="mailto: satvi.koti@gmail.com"><img src="https://cdn4.vectorstock.com/i/1000x1000/23/08/gmail-new-icon-vector-34182308.jpg" width=49px height=45px></a>
-<a href="https://www.hackerrank.com/satvi_koti"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png"  width=50px height=45px></a>
-<a href="https://github.com/satvikakoti"><img src="https://img-premium.flaticon.com/png/512/25/25231.png?token=exp=1623077972~hmac=40e3929515baf175b6a3f532557199fe" width=45px height=45px></a>
+<a href="https://www.hackerrank.com/satvi_koti"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png"  width=45px height=40px></a>
+<a href="mailto: satvi.koti@gmail.com"><img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" width=80px height=40px></a>
+<a href="https://github.com/satvikakoti"><img src="https://img-premium.flaticon.com/png/512/25/25231.png?token=exp=1623077972~hmac=40e3929515baf175b6a3f532557199fe" width=40px height=40px></a>
 <!--
 **satvikakoti/satvikakoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
