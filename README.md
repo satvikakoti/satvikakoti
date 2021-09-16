@@ -26,10 +26,10 @@ Here are some ideas to get you started:-->
 
 Programming languages:
 
-<a href="#"> <img src="https://img.shields.io/badge/Java-9ACD32?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-<a href="#"> <img src="https://img.shields.io/badge/C-FF6F00?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-<a href="#"> <img src="https://img.shields.io/badge/C++-07405E?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-<a href="#"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" alt="Python"/>
+<img src="https://img.shields.io/badge/Java-9ACD32?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/C-FF6F00?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/C++-07405E?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" alt="Python"/>
   
 Markup languages:
   
