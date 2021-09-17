@@ -37,8 +37,8 @@ Here are some ideas to get you started:-->
 |<img src="https://img.shields.io/badge/MySQL-07405E?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>|<img src="https://img.shields.io/badge/Linux-F37626?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> <img src="https://img.shields.io/badge/Windows-F44988?style=for-the-badge&logo=windows&logoColor=black" alt="Windows"/>|
   
 |Version Control:|IDE:|
-|:----------------:|----|
-|<img src="https://img.shields.io/badge/Git-092E00?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>|<img src="https://img.shields.io/badge/PyCharm-342B029.svg?&style=for-the-badge&logo=PyCharm&logoColor=black" alt="Pycharm"/> <img src="https://img.shields.io/badge/Jupyter-000000.svg?&style=for-the-badge&logo=Jupyter" alt="Jupyter"/>|
+|----------------|----|
+|<img src="https://img.shields.io/badge/Git-092E00?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/github-964B00.svg?style=for-the-badge&logo=github&logoColor=white">|<img src="https://img.shields.io/badge/PyCharm-342B029.svg?&style=for-the-badge&logo=PyCharm&logoColor=black" alt="Pycharm"/> <img src="https://img.shields.io/badge/Jupyter-000000.svg?&style=for-the-badge&logo=Jupyter" alt="Jupyter"/>|
  
 |Additional skills:|
 |------------------|  
