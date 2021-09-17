@@ -24,37 +24,25 @@ Here are some ideas to get you started:-->
 
 <b><i>Technical Skills</i></b>
 
-Programming languages:
-
-<img src="https://img.shields.io/badge/Java-9ACD32?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/C-FF6F00?style=for-the-badge&logo=c&logoColor=white" alt="C"/> <img src="https://img.shields.io/badge/C++-07405E?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" alt="Python"/>
+|Programming languages:|
+|----------------------|
+|<img src="https://img.shields.io/badge/Java-9ACD32?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/C-FF6F00?style=for-the-badge&logo=c&logoColor=white" alt="C"/> <img src="https://img.shields.io/badge/C++-07405E?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" alt="Python"/>|
   
-Markup languages:
+|Markup languages:|Frameworks:|
+|-----------|-----------------|  
+|<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>|<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS"/> <img src="https://img.shields.io/badge/Javascript-00000F?style=for-the-badge&logo=javascript" alt="Javascript"/> <img src="https://img.shields.io/badge/Django-20B2AA?style=for-the-badge&logo=django" alt="Django"/>|
   
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-
-Frameworks:
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS"/> <img src="https://img.shields.io/badge/Javascript-00000F?style=for-the-badge&logo=javascript" alt="Javascript"/> <img src="https://img.shields.io/badge/Django-20B2AA?style=for-the-badge&logo=django" alt="Django"/>
+|Database:|Operating System:|
+|---------|-----------------|
+|<img src="https://img.shields.io/badge/MySQL-07405E?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>|<img src="https://img.shields.io/badge/Linux-F37626?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> <img src="https://img.shields.io/badge/Windows-F44988?style=for-the-badge&logo=windows&logoColor=black" alt="Windows"/>|
   
-Database:
-
-<img src="https://img.shields.io/badge/MySQL-07405E?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-
-Operating System:
-
-<img src="https://img.shields.io/badge/Linux-F37626?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  
-Version Control:
-  
-<img src="https://img.shields.io/badge/Git-092E20?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  
-IDE:
-  
-<img src="https://img.shields.io/badge/PyCharm-342B029.svg?&style=for-the-badge&logo=PyCharm&logoColor=black" alt="Pycharm"/> <img src="https://img.shields.io/badge/Jupyter-000000.svg?&style=for-the-badge&logo=Jupyter" alt="Jupyter"/>
+|Version Control:|IDE:|
+|----------------|----|
+|<img src="https://img.shields.io/badge/Git-092E20?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>|<img src="https://img.shields.io/badge/PyCharm-342B029.svg?&style=for-the-badge&logo=PyCharm&logoColor=black" alt="Pycharm"/> <img src="https://img.shields.io/badge/Jupyter-000000.svg?&style=for-the-badge&logo=Jupyter" alt="Jupyter"/>|
  
-Additional skills:
-  
-<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy" alt="Numpy"/> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas" alt="Pandas"/> <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV" alt="OpenCV"/> 
+|Additional skills:|
+|------------------|  
+|<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy" alt="Numpy"/> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas" alt="Pandas"/> <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV" alt="OpenCV"/> |
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satvikakoti&theme=dark&bg_color=30,04619f,000000)](https://github.com/satvikakoti/github-readme-stats) 
 
