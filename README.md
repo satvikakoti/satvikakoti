@@ -42,7 +42,7 @@ Here are some ideas to get you started:-->
  
 |Additional skills:|
 |------------------|  
-|<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy" alt="Numpy"/> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas" alt="Pandas"/> <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV" alt="OpenCV"/> |
+|<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy" alt="Numpy"/> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas" alt="Pandas"/> <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV" alt="OpenCV"/> <img src="https://img.shields.io/badge/Matplotlib-191970?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>|
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satvikakoti&theme=dark&bg_color=30,04619f,000000)](https://github.com/satvikakoti/github-readme-stats) 
 
