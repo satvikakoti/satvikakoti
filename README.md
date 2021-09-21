@@ -48,4 +48,4 @@ Here are some ideas to get you started:-->
 
 ![](https://media.tenor.com/images/7f7323bed7a9e4b31050a8f05f771185/tenor.gif)
 
-Check out my other GitHub repo 👉 <a href="https://github.com/projectTC"><img src="https://image.flaticon.com/icons/png/512/25/25231.png" width=40px height=40px align="center"></a>
+<!-- Check out my other GitHub repo 👉 <a href="https://github.com/projectTC"><img src="https://image.flaticon.com/icons/png/512/25/25231.png" width=40px height=40px align="center"></a> -->
