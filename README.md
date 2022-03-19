@@ -5,7 +5,7 @@ This is Satvika, a CSE Junior; keen in learning trending techs of industry.
 <a href="https://www.codechef.com/users/sat_krazy_01"><img src="https://i.pinimg.com/564x/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" width=40px height=40px></a>
 <a href="https://www.hackerrank.com/satvi_koti"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png"  width=45px height=40px></a>
 <a href="mailto: satvi.koti@gmail.com"><img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" width=80px height=40px></a>
-<a href="https://github.com/satvikakoti"><img src="https://image.flaticon.com/icons/png/512/25/25231.png" width=40px height=40px></a>
+<a href="https://github.com/satvikakoti"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width=50px height=50px></a>
 <!--
 **satvikakoti/satvikakoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
