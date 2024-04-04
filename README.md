@@ -11,7 +11,7 @@ This is Satvika, a CSE final year student; keen in learning trending techs of in
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on Full Stack Web Development using Django 💻
+- 🔭 I’m currently working on Software Development using Java SpringBoot and Django 💻
 - 🌱 I’m currently learning Machine Learning 🎰
 - 👯 I’m looking to collaborate on projects involving Django and Artificial Intelligence.
 - 📫 How to reach me: ✉️ satvi.koti@gmail.com
