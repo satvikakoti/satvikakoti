@@ -1,7 +1,7 @@
 ### Hi there 👋 
 This is Satvika, a CSE final year student; keen in learning trending techs of industry.
 
-<a href="https://www.linkedin.com/in/satvika-koti-5766201a4/"><img src="https://theshepherdgroup.com/wp-content/uploads/2018/11/12.png" width=50px height=45px></a>
+<a href="https://www.linkedin.com/in/satvika-koti-5766201a4/"><img src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent-Background-PNG-.png" width=50px height=45px></a>
 <a href="https://www.codechef.com/users/sat_krazy_01"><img src="https://i.pinimg.com/564x/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" width=40px height=40px></a>
 <a href="https://www.hackerrank.com/satvi_koti"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png"  width=45px height=40px></a>
 <a href="mailto: satvi.koti@gmail.com"><img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" width=80px height=40px></a>
